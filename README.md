@@ -18,10 +18,13 @@ npm install node-telegram-bot-api sqlite3
 
 Easy to set up
 
-To start, you need to register
+To start, you need to register installation node
 
-the `npm-telegram-bot-api sqlite3 installation node
-``
+ 
+```
+npm-telegram-bot-api sqlite3  
+```
+
 
 Also block the "bot_token" on the current created in BotFather
 after that start.
