@@ -1,3 +1,5 @@
+# :ru:
+
 Прост в настройке
 
 Для запуска требуется прописать
@@ -11,3 +13,19 @@ npm install node-telegram-bot-api sqlite3
 
 ### Структура базы данных 
 ``` users ---> user_id (integer)```
+
+# 🇺🇸
+
+Easy to set up
+
+To start, you need to register
+
+the `npm-telegram-bot-api sqlite3 installation node
+``
+
+Also block the "bot_token" on the current created in BotFather
+after that start.
+
+
+### Database structure 
+`users ---> user ID (integer)`
